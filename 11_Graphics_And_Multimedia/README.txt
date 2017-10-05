@@ -1,3 +1,3 @@
-Project: 
+Project: Enter Project Name Here
 
-Description: 
+Description: Enter Description Here
